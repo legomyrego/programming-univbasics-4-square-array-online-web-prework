@@ -12,6 +12,3 @@ counter = 0
 end
 
 return array
-
-
-
